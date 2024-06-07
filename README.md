@@ -11,3 +11,4 @@ Thank you for your support!
 ## Sessions
 
 - [CSS Battle](./css-battle/)
+- [Tailwind CSS](./tailwind/)
