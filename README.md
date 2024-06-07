@@ -8,3 +8,6 @@ Create a directory for the session, add a README.md into it and add a link to it
 
 Thank you for your support!
 
+## Sessions
+
+- [CSS Battle](./css-battle/)
