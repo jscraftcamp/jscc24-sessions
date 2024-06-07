@@ -11,7 +11,8 @@ Thank you for your support!
 ## Sessions
 
 - [CSS Battle](./css-battle/) (by @Narigo)
-- [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie)
+- [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie / @LBBO)
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
+- [How to make TypeScript work *for you*](./how-to-make-ts-work-for-you) (by Michael / Cookie / @LBBO)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
