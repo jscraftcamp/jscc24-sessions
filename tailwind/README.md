@@ -1,5 +1,7 @@
 # Tailwind CSS. But make it nice
 
+🔗 [Tailwind Docs](https://tailwindcss.com/docs/)
+
 **💭 Unordered thoughts during the session**
 
 - first impression often overwhelming
