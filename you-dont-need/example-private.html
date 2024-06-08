@@ -1,0 +1,43 @@
+<h1>Example: class with private method and private property</h1>
+
+
+<h2>The Console</h2>
+<div id="console"></div>
+
+<h2>The Code</h2>
+<pre id="code"></pre>
+
+<script>
+  const old_log = console.log;
+  console.log = (string) => {
+    old_log(string);
+    document.getElementById("console").innerText += string + "\n";
+  }
+</script>
+<script type="module" id="priv">
+class PrivateCounter {
+  #privateCounter = 0;
+  #changeBy(x) {
+    this.#privateCounter+=x;
+  }
+  increment() {
+    this.#changeBy(1);
+  }
+  decrement() {
+    this.#changeBy(-1);
+  }
+  value() {
+    return this.#privateCounter;
+  }
+}
+let counter = new PrivateCounter();
+console.log(counter.value());
+counter.increment();
+counter.increment();
+counter.decrement();
+console.log(counter.value());
+</script>
+
+<script>
+document.getElementById("code").innerText = document.getElementById("priv").innerText;
+</script>

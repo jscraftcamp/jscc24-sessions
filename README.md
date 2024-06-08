@@ -15,3 +15,4 @@ Thank you for your support!
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
+- [You Don't Need...](./you-dont-need/) (by Brigitte)
