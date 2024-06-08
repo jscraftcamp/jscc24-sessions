@@ -16,3 +16,4 @@ Thank you for your support!
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
 - [Local First](./local-first/) (by [Robert Hostlowsky](https://github.com/jscraftcamp/website/blob/main/participants/robert-hostlowsky.json))
+- [Passkeys](./passkeys/) (by [Clemens Hübner](https://github.com/jscraftcamp/website/blob/main/participants/clemens.json))
