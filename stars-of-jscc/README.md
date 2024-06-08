@@ -1,5 +1,8 @@
 # Stars of JSCraftCamp
 
+
+![stars](stars.png)
+
 # JS Libs
 
 https://github.com/colinhacks/zod

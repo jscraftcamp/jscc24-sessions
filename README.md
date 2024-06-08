@@ -13,5 +13,6 @@ Thank you for your support!
 - [CSS Battle](./css-battle/) (by @Narigo)
 - [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie)
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
+- [Stars of JSCC](./stars-of-jscc/) (by Jakob)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
