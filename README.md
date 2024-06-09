@@ -2,8 +2,6 @@
 
 We like to collect session notes for all sessions if possible. If you have slides for your session or took notes - please share them with all of us!
 
-This repository will be filled later, as soon as the JSCC starts.
-
 Create a directory for the session, add a README.md into it and add a link to it in the table below.
 
 Thank you for your support!
@@ -17,3 +15,4 @@ Thank you for your support!
 - [Mocking Modules in Rust](./mocking-modules-in-rust/) (by Vero)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
+- [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
