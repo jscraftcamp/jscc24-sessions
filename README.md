@@ -16,4 +16,6 @@ Thank you for your support!
 - [How to make TypeScript work *for you*](./how-to-make-ts-work-for-you) (by Michael / Cookie / @LBBO)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
+- [Local First](./local-first/) (by [Robert Hostlowsky](https://github.com/jscraftcamp/website/blob/main/participants/robert-hostlowsky.json))
+- [Passkeys](./passkeys/) (by [Clemens Hübner](https://github.com/jscraftcamp/website/blob/main/participants/clemens.json))
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
