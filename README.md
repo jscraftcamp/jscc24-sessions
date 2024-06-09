@@ -20,3 +20,4 @@ Thank you for your support!
 - [Passkeys](./passkeys/) (by [Clemens Hübner](https://github.com/jscraftcamp/website/blob/main/participants/clemens.json))
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
 - [You Don't Need...](./you-dont-need/) (by Brigitte)
+- [Stars of JSCC](./stars-of-jscc/) (by Jakob)
