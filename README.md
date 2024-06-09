@@ -19,3 +19,4 @@ Thank you for your support!
 - [Local First](./local-first/) (by [Robert Hostlowsky](https://github.com/jscraftcamp/website/blob/main/participants/robert-hostlowsky.json))
 - [Passkeys](./passkeys/) (by [Clemens Hübner](https://github.com/jscraftcamp/website/blob/main/participants/clemens.json))
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
+- [You Don't Need...](./you-dont-need/) (by Brigitte)
