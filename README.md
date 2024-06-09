@@ -21,3 +21,4 @@ Thank you for your support!
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
 - [You Don't Need...](./you-dont-need/) (by Brigitte)
 - [Stars of JSCC](./stars-of-jscc/) (by Jakob)
+- [On Becoming A Senior Dev](./on-becoming-a-senior-dev) (by [cowglow](https://github.com/cowglow))
