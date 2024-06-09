@@ -37,6 +37,7 @@ Two completely different versions of "local first" where announced:
 ### Syncing
 
 - Multiple solutions suggested, e.g. [Replicache](https://replicache.dev/)
+- An example, which has the typical persistence layer (GraphQL) replaced by a library for managing data in browser, is using [instantDB](https://www.instantdb.com/)
 - The docs in the Local First website go very in depth about this topic.
 
 ## Why would I want to develop "local first"?
