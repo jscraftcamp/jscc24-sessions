@@ -14,6 +14,13 @@ While programming along Wolfram moderated and forced us to be very strict on TDD
 While doing so some "tools" for TDD [see c2 wiki](https://wiki.c2.com/?TestDrivenDevelopment) 
 or testing in general had been underlined often, such as:
 * do tiny simple steps (see also https://wiki.c2.com/?DoSimpleThings)
+* which tests to write?
+    * write a test for no data (at least you will "design" the API already)
+    * write a test for 1 result (this advances your code)
+    * many results (will make the code quite generic)
+    * a lot of results (maybe you need pagination, data slicing, etc.)
+    * and the error cases
+* "As the tests get more specific, the code gets more generic" unknown quote origin 
 * write a red test first, see it fail
 * ensure test description is telling the story the test will implement, and asure to adjust if it diverges
 * write just enough code to make the test pass (fake it until you make it)
