@@ -10,8 +10,10 @@ Thank you for your support!
 
 ## Sessions
 
+- [Automated Accessibility Testing](./automated-accessibility-testing/) (by Vero, Sophia)
 - [CSS Battle](./css-battle/) (by @Narigo)
 - [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie)
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
+- [Mocking Modules in Rust](./mocking-modules-in-rust/) (by Vero)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
