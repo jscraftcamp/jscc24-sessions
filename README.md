@@ -22,3 +22,4 @@ Thank you for your support!
 - [You Don't Need...](./you-dont-need/) (by Brigitte)
 - [Stars of JSCC](./stars-of-jscc/) (by Jakob)
 - [On Becoming A Senior Dev](./on-becoming-a-senior-dev) (by [cowglow](https://github.com/cowglow))
+- [Page Speed](./page-speed) by Wolfram Kriesing
