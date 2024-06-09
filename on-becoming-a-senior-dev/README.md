@@ -1,6 +1,5 @@
 # On Becoming a Senior Dev
-[<img src="Mock-Book-Cover.jpg" width="250" align="right" />](Mock-Book-Cover.jpg)
-
+[<img src="OnBecomingASeniorDev.png" width="250" align="right" />](OnBecomingASeniorDev.png)
 
 I do hope that we are able to go through life, building upon our achievements or leveling it up as the cool kids say. It 
 was pretty clear from the start of our session that the shared idea that experience outweighs the title. Some companies 

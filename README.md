@@ -13,7 +13,7 @@ Thank you for your support!
 - [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie)
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
 - [Mocking Modules in Rust](./mocking-modules-in-rust/) (by Vero)
+- [On Becoming A Senior Dev](./on-becoming-a-senior-dev) (by [cowglow](https://github.com/cowglow))
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
-- [On Becoming A Senior Dev](./on-becoming-a-senior-dev) (by [cowglow](https://github.com/cowglow))
