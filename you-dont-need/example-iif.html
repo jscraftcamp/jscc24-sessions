@@ -1,0 +1,48 @@
+<h1>Example: IIF and colosre to get private property and method</h1>
+
+
+<h2>The Console</h2>
+<div id="console"></div>
+
+<h2>The Code</h2>
+<pre id="code"></pre>
+
+<script>
+  const old_log = console.log;
+  console.log = (string) => {
+    old_log(string);
+    document.getElementById("console").innerText += string + "\n";
+  }
+</script>
+<script  id="priv">
+const counter = (function () {
+  let privateCounter = 0;
+  function changeBy(val) {
+    privateCounter += val;
+  }
+
+  return {
+    increment() {
+      changeBy(1);
+    },
+
+    decrement() {
+      changeBy(-1);
+    },
+
+    value() {
+      return privateCounter;
+    },
+  };
+})();
+
+console.log(counter.value());
+counter.increment();
+counter.increment();
+counter.decrement();
+console.log(counter.value());
+</script>
+
+<script>
+document.getElementById("code").innerText = document.getElementById("priv").innerText;
+</script>
