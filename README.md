@@ -10,9 +10,10 @@ Thank you for your support!
 
 - [Automated Accessibility Testing](./automated-accessibility-testing/) (by Vero, Sophia)
 - [CSS Battle](./css-battle/) (by @Narigo)
-- [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie)
+- [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie / @LBBO)
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
 - [Mocking Modules in Rust](./mocking-modules-in-rust/) (by Vero)
+- [How to make TypeScript work *for you*](./how-to-make-ts-work-for-you) (by Michael / Cookie / @LBBO)
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
