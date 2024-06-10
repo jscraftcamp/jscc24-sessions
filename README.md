@@ -17,6 +17,7 @@ Thank you for your support!
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
 - [Local First](./local-first/) (by [Robert Hostlowsky](https://github.com/jscraftcamp/website/blob/main/participants/robert-hostlowsky.json))
+- [Papperlapapp 1h episode challenge](./papperlapapp-1h-episode-challenge/) (by [Stefan Spittank](https://github.com/jscraftcamp/website/blob/main/participants/stefan_spittank.json) and [Holger Grosse-Plankermann](https://github.com/jscraftcamp/website/blob/main/participants/holgergp.json))
 - [Passkeys](./passkeys/) (by [Clemens Hübner](https://github.com/jscraftcamp/website/blob/main/participants/clemens.json))
 - [Solving Advent of Code Puzzles with Vim](./vim-advent-of-code/) (by [yogan](https://github.com/yogan))
 - [You Don't Need...](./you-dont-need/) (by Brigitte)
