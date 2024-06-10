@@ -45,3 +45,77 @@ https://cssbattle.dev/play/153
 </style>
 ```
 </details>
+
+## Target 180
+
+This was part of the second round of CSS Battles! https://cssbattle.dev/play/180
+Looked into units like `q`.
+
+<details>
+ <summary>Kuwait - code golfed</summary>
+
+```html
+<style>*>*{margin:0;border-top:100px solid#13AA4B;border-bottom:100px solid#EC1E25;border-left:127q solid#000
+```
+</details>
+
+## Target 157
+
+This was part of the second round of CSS Battles! https://cssbattle.dev/play/157
+The `-webkit-box-reflect` was new to some of us 🙂
+
+<details>
+ <summary>Monopoly</summary>
+
+```html
+<div class="head">
+  <div class="hat"></div>
+  <div class="eyes"></div>
+  <div class="mustache"><div></div></div>
+</div>
+<style>
+  body {
+    background: #E38F66;
+    display: grid;
+    place-items: center;
+  }
+  .head {
+    width: 180px;
+    height: 220px;
+  }
+  .hat {
+    height:50%;
+    background:#FFFBDA;
+    margin:0 30;
+    border-radius: 50% 50% 0 0;
+    position: relative;
+  }
+  .hat::after {
+    content: '';
+    width:45vw;
+    height:20px;
+    background:#FFFBDA;
+    border-radius:10px;
+    position:absolute;
+    left:-30;
+    bottom:0;
+  }
+  .eyes {
+    background: radial-gradient(circle at 120px 32px, #0000 10px, #FFFBDA 0 20px, #0000 0),radial-gradient(circle at 60px 32px, #FFFBDA 10px, #0000 0);
+    height: 70
+  }
+
+  .mustache {
+    margin-left: 45;
+    width: 40px;
+    height: 40px;
+    -webkit-box-reflect: right 10px;
+  }
+  .mustache>*{
+    background: #FFFBDA;
+    width: 100%;
+    height: 100%;
+    border-radius: 50% 50% 50% 0;
+    transform: rotate(45deg)
+```
+</details>
