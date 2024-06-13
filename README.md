@@ -9,6 +9,7 @@ Thank you for your support!
 ## Sessions
 
 - [Automated Accessibility Testing](./automated-accessibility-testing/) (by Vero, Sophia)
+- [Community Building](./community-building/) (by @Narigo)
 - [CSS Battle](./css-battle/) (by @Narigo)
 - [Experimenting with JSR](./experimenting-with-JSR/) (by Michael / Cookie / @LBBO)
 - [How to make huge apps scalable? Microfrontends? What are your experiences?](./how-to-make-huge-apps-scalable/) (by Robert?)
