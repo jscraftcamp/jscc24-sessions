@@ -26,3 +26,4 @@ Thank you for your support!
 - [Tailwind CSS](./tailwind/) (by @irenama)
 - [Tauri](./tauri/) (by Matthias)
 - [You Don't Need...](./you-dont-need/) (by Brigitte)
+- [UX - A drama in three acts](./ux-a-drama-in-three-acts) (by [Stefan Spittank](https://github.com/jscraftcamp/website/blob/main/participants/stefan_spittank.json))
